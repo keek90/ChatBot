@@ -46,12 +46,12 @@ This is a real-time chat application built with React.js and Firebase. It allows
 
 ## Installation
 
--**1. Clone the repository:**
+ 1. Clone the repository:
 
    ```bash
    git clone https://github.com/your_username/your_repository.git
 
-**2. Install dependencies:**
+** 2. Install dependencies:**
        cd your_repository
       npm install
 **3.Set up Firebase:**
